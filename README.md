@@ -4,16 +4,27 @@ My name is Chen Liang, you can call me Max if you like or Ruyyi (though I don't 
 
 Compared to working on hard and complex problems, I like to gather and organize some code snippets which I created, previously found or used, and then share to people. I found joy and useful when I got connected into this coding world by many people trying to share their knowledge, though it's super easy and simple. Now I want to do the similar stuff, just to keep help you, me and all the programmers keep the original love to the coding, no matter what you're doing, and what programming language you use. 
 
-### This is what I've worked on
+### This is what I've worked on 🔭
+
+**Data Scientist** 
+
+@_[BurningGlass](https://www.linkedin.com/company/burning-glass-technologies/mycompany/) Jul. 2019 - Present_
+
+### My education background 📖
+
+Master of Science (M.S), Data Science | @_[WPI](https://www.wpi.edu/) 2017 - 2019_ | 3.84 GPA
+
+Master of Science (M.S), Electronic Engineering | @_[SCUT](https://www.wpi.edu/) 2013 - 2017_ | 3.27 GPA
+
+**Courseworks**
 
 
-### My education background
+**Other Certifications**
+
+### Stuff to share with you 💬 
 
 
-### Stuff to share with you
-
-
-### Fun facts...
+### Fun facts 😄 ...
 
 <!--
 **ruyyi0323/ruyyi0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
