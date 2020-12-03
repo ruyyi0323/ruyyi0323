@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Chen Liang, you can call me Max if you like or Ruyyi (though I don't even know how to pronounce this one, I just feel like this is an interesting name). I am a **Data Scientist** which currently building service focusing on the job market, I am also trying to gain some experience and knowledge on **Machine Learning Engineer**, which I actually loves this one more.
+
+
+
+
+
 <!--
 **ruyyi0323/ruyyi0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
