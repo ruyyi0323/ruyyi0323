@@ -6,9 +6,7 @@ Compared to working on hard and complex problems, I like to gather and organize 
 
 ### This is what I've worked on 🔭
 
-**Data Scientist** 
-
-@_[BurningGlass](https://www.linkedin.com/company/burning-glass-technologies/mycompany/) Jul. 2019 - Present_
+**Data Scientist** | @_[BurningGlass](https://www.linkedin.com/company/burning-glass-technologies/mycompany/) Jul. 2019 - Present_
 
 ### My education background 📖
 
@@ -25,6 +23,9 @@ Master of Science (M.S), Electronic Engineering | @_[SCUT](https://www.wpi.edu/)
 
 
 ### Fun facts 😄 ...
+- I like to **drive around** as trip, this is the way I like the most when speaking to explore the world.
+- I like to look for a best place to **film plane and train**, architectures, not using the professional cameras, just a simple iPhone.
+- I played **WOW** for nearly 6 years, now I am playing as a paladin, for Azeroth!
 
 <!--
 **ruyyi0323/ruyyi0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
