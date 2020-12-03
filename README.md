@@ -19,6 +19,11 @@ Master of Science (M.S), Electronic Engineering | @_[SCUT](https://www.wpi.edu/)
 
 **Other Certifications**
 
+
+
+### Something can be treat as accomplishment from my perspective
+
+
 ### Stuff to share with you 💬 
 
 
