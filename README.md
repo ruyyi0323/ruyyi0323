@@ -14,11 +14,9 @@ I've joined BurningGlass data science team, focusing on building the machine lea
 
 ### My education background 📖
 
-Master of Science (M.S), Data Science | @_[WPI](https://www.wpi.edu/) 2017 - 2019_ | 3.84 GPA
-
-Master of Science (M.S), Electronic Engineering | @_[SCUT](https://www.wpi.edu/) 2013 - 2017_ | 3.27 GPA
-
-**Courseworks**: Artificial Intelligence, Deep Learning, Data Visualization, Big Data Management, Big Data Analysis, Statistical
+- Master of Science (M.S), Data Science | @_[WPI](https://www.wpi.edu/) 2017 - 2019_ | 3.84 GPA
+- Master of Science (M.S), Electronic Engineering | @_[SCUT](https://www.wpi.edu/) 2013 - 2017_ | 3.27 GPA
+- **Courseworks**: Artificial Intelligence, Deep Learning, Data Visualization, Big Data Management, Big Data Analysis, Statistical
 Method for Data Scientists
 
 **Other Certifications**
