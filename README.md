@@ -8,29 +8,31 @@ Compared to working on hard and complex problems, I like to gather and organize 
 
 **Data Scientist** | @_[BurningGlass](https://www.linkedin.com/company/burning-glass-technologies/mycompany/) Jul. 2019 - Present_
 
+I've joined BurningGlass data science team, focusing on building the machine learning models and machine learning pipeline along with them, in order to help the company utilize the job market information to produce market analysis and trend prediction. 
+- During this time, I'm the main contributor to a millions level project, produced and delivered a feature fusioned machine learning model to give good salary estimation from a given job posting. This model reduce the error percentage by 1/3 compared to previous version of it, and earn the retention of some big clients like Ranstad. 
+- Other than this, I am now working jointly with my collegues on creating a general automated machine learning pipeline to serve the whole model training procedure to multiple models that the team has developed.
+
 ### My education background 📖
 
 Master of Science (M.S), Data Science | @_[WPI](https://www.wpi.edu/) 2017 - 2019_ | 3.84 GPA
 
 Master of Science (M.S), Electronic Engineering | @_[SCUT](https://www.wpi.edu/) 2013 - 2017_ | 3.27 GPA
 
-**Courseworks**
-
+**Courseworks**: Artificial Intelligence, Deep Learning, Data Visualization, Big Data Management, Big Data Analysis, Statistical
+Method for Data Scientists
 
 **Other Certifications**
-
-
-
-### Something can be treat as accomplishment from my perspective
-
+* [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/R9JKDQE957GL)
+* [Machine Learning Engineer Nanodegree](https://confirm.udacity.com/D2SW3JUE)
 
 ### Stuff to share with you 💬 
-
+* [Shadowlands](https://www.notion.so/ruyyisme/Shadowland-3117bf3dc60b4206acecd99d2f46ef3a) This is a notion notebook that I used for saving some of the commonly used code snippets / functions or small tips, hope it can be somehow help if you are just start some simple coding XD.
+* [Commit Message Quality Checker](https://github.com/ruyyi0323/Udacity-ML-Engineer-Capstone-Project) This is actually the capstone project repo that for the ML Engineer Nanodegree, but currently I decided to expand a little bit and keep going to upgrade the procedure, so I am putting this in here. If you're looking for AWS sagemaker deployment script which uses tensorflow, you may want to check this out :D
 
 ### Fun facts 😄 ...
 - I like to **drive around** as trip, this is the way I like the most when speaking to explore the world.
 - I like to look for a best place to **film plane and train**, architectures, not using the professional cameras, just a simple iPhone.
-- I played **WOW** for nearly 6 years, now I am playing as a paladin, for Azeroth!
+- I played **WOW** for nearly 6 years
 
 <!--
 **ruyyi0323/ruyyi0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
