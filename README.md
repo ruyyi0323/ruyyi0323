@@ -11,8 +11,6 @@ Compared to working on hard and complex problems, I like to gather and organize 
 **Data Scientist** | @_[BurningGlass](https://www.linkedin.com/company/burning-glass-technologies/mycompany/) Jul. 2019 - Present_
 
 I've joined BurningGlass data science team, focusing on building the machine learning models and machine learning pipeline along with them, in order to help the company utilize the job market information to produce market analysis and trend prediction. 
-- During this time, I'm the main contributor to a millions level project, produced and delivered a feature fusioned machine learning model to give good salary estimation from a given job posting. This model reduce the error percentage by 1/3 compared to previous version of it, and earn the retention of some big clients like Ranstad. 
-- Other than this, I am now working jointly with my collegues on creating a general automated machine learning pipeline to serve the whole model training procedure to multiple models that the team has developed.
 
 ### My education background 📖
 
@@ -35,4 +33,3 @@ Method for Data Scientists
 - I like to **drive around** as trip, this is the way I like the most when speaking to explore the world.
 - I like to look for a best place to **film plane and train**, architectures, not using the professional cameras, just a simple iPhone.
 - I played **WOW** for nearly 6 years
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruyyi0323&layout=compact)](https://github.com/ruyyi0323/github-readme-stats)
