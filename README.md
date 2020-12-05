@@ -2,9 +2,9 @@
 
 My name is Chen Liang, you can call me Max if you like or Ruyyi (though I don't even know how to pronounce this one, I just feel like this is an interesting name). I am a **Data Scientist** which currently building service focusing on the job market, I am also trying to gain some experience and knowledge on **Machine Learning Engineer**, which I actually loves this one more.
 
-Compared to working on hard and complex problems, I like to gather and organize some code snippets which I created, previously found or used, and then share to people. I found joy and useful when I got connected into this coding world by many people trying to share their knowledge, though it's super easy and simple. Now I want to do the similar stuff, just to keep help you, me and all the programmers keep the original love to the coding, no matter what you're doing, and what programming language you use. 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruyyi/)](https://www.linkedin.com/in/ruyyi/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruyyi0323&layout=compact)](https://github.com/ruyyi0323/github-readme-stats)
+Compared to working on hard and complex problems, I like to gather and organize some code snippets which I created, previously found or used, and then share to people. I found joy and useful when I got connected into this coding world by many people trying to share their knowledge, though it's super easy and simple. Now I want to do the similar stuff, just to keep help you, me and all the programmers keep the original love to the coding, no matter what you're doing, and what programming language you use. 
 
 ### This is what I've worked on 🔭
 
@@ -35,6 +35,4 @@ Method for Data Scientists
 - I like to **drive around** as trip, this is the way I like the most when speaking to explore the world.
 - I like to look for a best place to **film plane and train**, architectures, not using the professional cameras, just a simple iPhone.
 - I played **WOW** for nearly 6 years
-
-### Find me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruyyi/)](https://www.linkedin.com/in/ruyyi/)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruyyi0323&layout=compact)](https://github.com/ruyyi0323/github-readme-stats)
